@@ -1,0 +1,1 @@
+https://hub.docker.com/repository/docker/ggomesof/fullcycle/tags/latest/sha256-c1fff41ae8c46385b5d8b6fcafd97c2d10e3e946c87ed4f9174643c38358bf59
